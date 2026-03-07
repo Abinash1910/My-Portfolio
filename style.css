@@ -266,7 +266,6 @@ body {
 
 @media (max-width: 768px) {
   .about-img {
-    margin-bottom: 2rem;
     margin:0px;
     
   }
@@ -529,6 +528,7 @@ body {
   }
   .about-image {
     text-align: center;
+    padding:20px;
   }
   .hero-buttons {
     flex-direction: column;
