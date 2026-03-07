@@ -267,6 +267,8 @@ body {
 @media (max-width: 768px) {
   .about-img {
     margin-bottom: 2rem;
+    margin:0px;
+    
   }
 
   .section-title {
